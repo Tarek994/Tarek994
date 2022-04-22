@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tarek Ghali
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to be 
 - 📫  reach me :  Ghalitarek510@gmail.com
 
 <!---
