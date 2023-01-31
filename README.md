@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Tarek Ghali
-- 👀 I’m interested in Web Programming.
-- 🌱 I'm now developing my Front-End Development skills
+ Experienced React JS Front-End Developer with 8+ months of expertise delivering intuitive, interactive user experiences. Passionate about constantly         learning and improving.
 - 📫  reach me :  ghalitarek510@gmail.com
 
 <!---
