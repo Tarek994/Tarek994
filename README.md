@@ -1,4 +1,4 @@
- Experienced React JS Front-End Developer with 8+ months of expertise delivering intuitive, interactive user experiences. Passionate about constantly         learning and improving.
+ Experienced React JS Front-End Developer with 10+ months of expertise delivering intuitive, interactive user experiences. Passionate about constantly         learning and improving.
 - 📫  reach me :  ghalitarek510@gmail.com
 
 <!---
