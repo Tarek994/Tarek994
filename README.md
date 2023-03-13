@@ -1,4 +1,4 @@
- Experienced React JS Front-End Developer, interactive user experiences. Passionate about constantly         learning and improving.
+ Experienced Front-End Developer, interactive user experiences. Passionate about constantly         learning and improving.
 - 📫  reach me :  ghalitarek510@gmail.com
 
 <!---
