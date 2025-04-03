@@ -14,6 +14,7 @@ Building future-proof web experiences with clean code and continuous learning mi
   <img src="https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" height="28" alt="Material-UI">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="28" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?logo=apollo-graphql&logoColor=white&style=for-the-badge" height="28" alt="Apollo GraphQL">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="28" alt="Jira">
 </p>
 
 ## 🌐 Full-Stack Aspiration
